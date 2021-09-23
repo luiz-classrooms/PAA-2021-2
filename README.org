@@ -1,0 +1,57 @@
+* Projeto e Análise de Algoritmos
+
+  Lista de vídeos para a disciplina: https://www.youtube.com/playlist?list=PLRDuHd2Ia_buAXDjLZl32FpSbsVZJ8OZH
+
+** Cronograma
+
+  | Data             | Aula | Descrição                                                                           | Status   |
+  |------------------+------+-------------------------------------------------------------------------------------+----------|
+  | [2021-09-29 Wed] |    1 | Apresentação da Disciplina e Algoritmos por Indução                                 | Síncrona |
+  | [2021-09-30 Thu] |    2 | Insertion Sort - construção e análise                                               | Gravada  |
+  | [2021-10-06 Wed] |    3 | Live                                                                                | Síncrona |
+  | [2021-10-07 Thu] |    4 | Notação Assintótica - definições e exemplos                                         | Gravada  |
+  | [2021-10-13 Wed] |    5 | Live                                                                                | Síncrona |
+  | [2021-10-14 Thu] |    6 | Relações de Recorrência - exemplos e simplificação                                  | Gravada  |
+  | [2021-10-20 Wed] |    7 | Live                                                                                | Síncrona |
+  | [2021-10-21 Thu] |    8 | Teorema Mestre - demonstração e aplicações                                          | Gravada  |
+  | [2021-10-27 Wed] |    9 | Live                                                                                | Síncrona |
+  | [2021-10-28 Thu] |   10 | Divisão e Conquista - problemas                                                     | Gravada  |
+  | [2021-11-03 Wed] |   11 | Live                                                                                | Síncrona |
+  | [2021-11-04 Thu] |   12 | Divisão e Conquista - problemas                                                     | Gravada  |
+  | [2021-11-10 Wed] |   13 | Live                                                                                | Síncrona |
+  | [2021-11-11 Thu] |   14 | Ordenação - heapsort e quicksort                                                    | Gravada  |
+  | [2021-11-17 Wed] |   15 | Live                                                                                | Síncrona |
+  | [2021-11-18 Thu] |   16 | Programação Dinâmica - subsequência crescente máxima, distância de edição           | Gravada  |
+  | [2021-11-24 Wed] |   17 | Live                                                                                | Síncrona |
+  | [2021-11-25 Thu] |   18 | Programação Dinâmica - cadeia de multiplicação de matrizes                          | Gravada  |
+  | [2021-12-01 Wed] |      | Encontros Universitários                                                            |          |
+  | [2021-12-02 Thu] |      | Encontros Universitários                                                            |          |
+  | [2021-12-08 Wed] |   19 | Live                                                                                | Síncrona |
+  | [2021-12-09 Thu] |   20 | Programação Dinâmica - algoritmos em grafos                                         | Gravada  |
+  | [2021-12-15 Wed] |   21 | Live                                                                                | Síncrona |
+  | [2021-12-16 Thu] |   22 | Matróides - definição, propriedades, exemplos e algoritmos                          | Gravada  |
+  | [2021-12-22 Wed] |   23 | Live                                                                                | Síncrona |
+  | [2021-12-23 Thu] |      | Recesso                                                                             |          |
+  | [2021-12-29 Wed] |      | Recesso                                                                             |          |
+  | [2021-12-30 Thu] |      | Recesso                                                                             |          |
+  | [2022-01-05 Wed] |      | Recesso                                                                             |          |
+  | [2022-01-06 Thu] |      | Recesso                                                                             |          |
+  | [2022-01-12 Wed] |   24 | Live                                                                                | Síncrona |
+  | [2022-01-13 Thu] |   25 | Algoritmos gulosos - matróide gráfico, Árvore Geradora Mínima                       | Gravada  |
+  | [2022-01-19 Wed] |   26 | Live                                                                                | Síncrona |
+  | [2022-01-20 Thu] |   27 | Algoritmos gulosos - escalonamento de tarefas uniformes com penalidades             | Gravada  |
+  | [2022-01-26 Wed] |   28 | Live                                                                                | Síncrona |
+  | [2022-01-27 Thu] |   29 | NP-completude - introdução e definições, problemas de lógica                        | Gravada  |
+  | [2022-02-02 Wed] |   30 | Live                                                                                | Síncrona |
+  | [2022-02-03 Thu] |   31 | NP-completude - conjunto independente, cobertura de vértices e caminho hamiltoniano | Gravada  |
+  | [2022-02-09 Wed] |   32 | Live                                                                                | Síncrona |
+  | [2022-02-10 Thu] |   33 | NP-completude - emparelhamento tridimensional, ZOE, programação inteira             | Gravada  |
+
+** Entregas
+
+   | Prazo            | Descrição   |
+   |------------------+-------------|
+   | [2021-10-28 Thu] | Aulas 1-8   |
+   | [2021-11-18 Thu] | Aulas 10-14 |
+   | [2021-12-16 Thu] | Aulas 16-20 |
+   | [2022-02-10 Thu] | Aulas 22-33 |
